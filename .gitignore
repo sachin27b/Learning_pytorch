@@ -1,0 +1,6 @@
+l-pytorch/
+*.mp4
+loss_landscape.ipynb
+youtube_downloader.ipynb
+FashionMNIST/
+torrent_download.ipynb
